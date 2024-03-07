@@ -15,10 +15,11 @@ body {
 
 .resume-header {
     background-color: #96BBD5;
+	color: #577BE6
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #FFF7E8;
 }
 
 .resume-aside {
@@ -57,3 +58,5 @@ body {
 .language-level {
 	border: 2px solid #000000	
 }
+
+
