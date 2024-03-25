@@ -52,11 +52,12 @@ body {
 }
 
 .language-progress {
-	background-color: #577BE6
+	background-color: #EE70D9
 }
 
 .language-level {
 	border: 2px solid #000000	
 }
-
-
+.funky-text {
+	color: #577BE6
+}
